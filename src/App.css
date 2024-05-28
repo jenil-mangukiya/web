@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300'); 
+.navbar{
+
+    height: 90px;
+    background-color: #ffffff;
+   
+}
+
+.start{
+
+    height: 57px;
+    width: 160px;
+    color: #ffffff;
+    background-color: #ff5a5a;
+    font-weight: 700;
+    margin: 20px 36px 20px 36px;
+    border-radius: 30px;
+    border: none;
+    font-size: 15px;
+    line-height: 17.5px;
+    font-family: 'Poppins';
+
+}
+
+.menu{
+
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 1.2px;
+    font-weight: 500;
+    padding-right: 30px;
+    font-family: 'Poppins';
+
+    
+}
+
+.sec-1{
+
+    padding: 50px 0px;
+    background-color: #FFFCF9;
+}
+
+.img>img{
+
+    height: 512px;
+    width: auto;
+}
+
+.power-1{
+    font-size: 56px;
+    line-height: 72px;
+    color: #161B37;
+    font-weight: 700;
+    padding-top: 50px;
+    font-family: 'Poppins';
+
+}
+
+.power-2{
+
+    font-size: 18px;
+    line-height: 26px;
+    color: #242230;
+    font-family: 'Poppins';
+
+}
+
+.start-2{
+
+    height: 57px;
+    width: 160px;
+    color: #ffffff;
+    background-color: #ff5a5a;
+    font-weight: 700;
+    /* margin: 20px 36px 20px 36px; */
+    border-radius: 30px;
+    border: none;
+    font-size: 15px;
+    line-height: 17.5px;
+    font-family: 'Poppins';
+
+
+}
+
+.power-4{
+
+    font-size: 14px;
+    line-height: 17.5px;
+    padding-top: 20px;
+    font-weight: 500;
+    font-family: 'Poppins';
+
+    
+}
+
+.im1{
+
+    opacity: .3;
+}
+
+.key{
+
+    font-size: 44px;
+    line-height: 57.2px;
+    font-weight: 600;
+    margin-top: 30px;
+    padding-top: 115px;
+    font-family: 'Poppins';
+    
+}
+
+.lin{
+
+    font-size: 20px;
+    line-height: 26px;
+    text-decoration: none;
+    color:#161B37;
+    padding: 0px 10px 0px 10px;
+    font-family: 'Poppins';
+    
+}
+
+.wcy{
+
+    text-align: center;
+    align-items: center;
+    font-size: 100px;
+    color: #ffffff;
+    line-height: 400px;
+    font-family: 'Poppins';
+}
+
+
+.lp>img{
+
+    width: 350px;
+    height: 450px;
+}
+
+.ps-2{
+
+    padding-top: 100px;
+}
+.bx{
+
+    width: 756px;
+    height: 368px;
+    box-shadow: rgba(53, 82, 99, 0.09) 0px 10px 50px 0px;
+    margin-top: 40px;
+    text-align: left;
+    padding: 40px;
+}
+
+.sch{
+
+    padding: 150px 0px;
+
+}
+
+.cat img{
+margin: 10px;
+    width: 50%;
+}
